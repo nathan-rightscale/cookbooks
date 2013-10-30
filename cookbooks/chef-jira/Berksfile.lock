@@ -1,0 +1,54 @@
+{
+  "sources": {
+    "jira": {
+      "path": "."
+    },
+    "mysql_connector": {
+      "locked_version": "0.5.0",
+      "git": "git://github.com/bflad/chef-mysql_connector.git",
+      "ref": "336794af654bf3084bd6bbfe38d293fa39485bd2"
+    },
+    "java": {
+      "locked_version": "1.14.0"
+    },
+    "minitest-handler": {
+      "locked_version": "1.1.2"
+    },
+    "jira_test": {
+      "path": "./test/cookbooks/jira_test"
+    },
+    "apache2": {
+      "locked_version": "1.8.4"
+    },
+    "database": {
+      "locked_version": "1.5.2"
+    },
+    "mysql": {
+      "locked_version": "3.0.12"
+    },
+    "openssl": {
+      "locked_version": "1.1.0"
+    },
+    "build-essential": {
+      "locked_version": "1.4.2"
+    },
+    "postgresql": {
+      "locked_version": "3.1.0"
+    },
+    "apt": {
+      "locked_version": "2.3.0"
+    },
+    "aws": {
+      "locked_version": "1.0.0"
+    },
+    "xfs": {
+      "locked_version": "1.1.0"
+    },
+    "windows": {
+      "locked_version": "1.11.0"
+    },
+    "chef_handler": {
+      "locked_version": "1.1.4"
+    }
+  }
+}
